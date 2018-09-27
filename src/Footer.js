@@ -5,7 +5,7 @@ const Footer = () =>{
     return(
         <div className = "Footer">
         <br/>
-            <div style = {{fontFamily: 'serif'}}>Facebook Developer Circle 2018</div>
+            <div style = {{fontFamily: 'serif'}}>Eatburp</div>
         </div>
     )
 }
